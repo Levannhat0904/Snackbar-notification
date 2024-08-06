@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lesson 7.14</string>
+    <string name="learn_snackbar">Learn Snackbar</string>
+    <string name="text_btn_add_des">Button add new notification</string>
+    <string name="text_inform">A new notification was posted.</string>
+    <string name="txt_permission_denied">Post notification permission was denied.</string>
+    <string name="channel_name">Main application channel</string>
+    <string name="channel_description">This is main application channel</string>
+    <string name="notification_title">My Pet</string>
+    <string name="notification_content">This is my new pet. It so cute!</string>
+    <string name="txt_permission_required">Ban can cap quyen</string>
+</resources>
